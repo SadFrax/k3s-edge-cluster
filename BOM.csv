@@ -1,0 +1,5 @@
+Item, Qty, Notes:
+- Radxa Zero 3E (8GB or 4GB),3,Primary compute nodes (8GB RAM preferred, fallback to 4GB)
+- 2.5" SATA SSD (64GB/128GB),3,Local storage drives for node data
+- Active Powered USB 3.0 Hub (5V/4A+),1,Dedicated power supply for SSDs and SBCs
+- 5-Port Gigabit Switch,1,Dedicated cluster Ethernet switch
